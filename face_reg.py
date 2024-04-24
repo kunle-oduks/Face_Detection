@@ -2,7 +2,7 @@ import cv2
 import streamlit as st
 
 st.markdown("<h1 style = 'color: #FFACAC'>FACE DETECTION APP</h1> ", unsafe_allow_html = True)
-st.markdown("<h6 style = 'top_margin: 0rem; color: #F2921D'>Built by GoMyCode Orpheus</h6>", unsafe_allow_html = True)
+st.markdown("<h6 style = 'top_margin: 0rem; color: #F2921D'>Built by KUNLE ODUKOYA </h6>", unsafe_allow_html = True)
 
 # Add an image to the page
 st.image('pngwing.com (16).png', caption = 'FACE DETECTOR', width = 400)
