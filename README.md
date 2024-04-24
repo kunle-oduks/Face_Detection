@@ -1,1 +1,1 @@
-# Face_Recognition
+This is an app that detects human faces
